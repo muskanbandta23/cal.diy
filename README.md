@@ -655,7 +655,7 @@ Currently Vercel Pro Plan is required to be able to Deploy this application with
 
 [![Deploy on ZopDay](https://zop.dev/deploytozopday-inkhard.svg)](https://zop.dev/zopday/app/deploy?image=calendso/calendso:latest&port=3000)
 
-You can deploy Cal.diy on [ZopDay](https://zop.dev/zopday), either on ZopCloud or into an AWS or GCP account you already own. Azure (AKS) is in preview.
+You can deploy Cal.diy on [ZopDay](https://zop.dev/zopday), either on ZopCloud or into an AWS or GCP account you already own.
 
 <!-- LICENSE -->
 
